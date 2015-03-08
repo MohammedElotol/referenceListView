@@ -1,0 +1,4 @@
+C:\Users\Ahmad lap\AndroidStudioProjects\referenceListView\app\build\intermediates\classes\debug
+C:\Users\Ahmad lap\AndroidStudioProjects\referenceListView\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-2e4a74539e7bbce1cee45e16891724a1ef166d9a.jar
+C:\Users\Ahmad lap\AndroidStudioProjects\referenceListView\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-db972ee981b0ddbcdf77efb146c44870828f5f20.jar
+C:\Users\Ahmad lap\AndroidStudioProjects\referenceListView\app\build\intermediates\pre-dexed\debug\classes-a2330e5cd9ff118112b4ffd674dbbb2bae912942.jar
